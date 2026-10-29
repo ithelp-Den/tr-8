@@ -129,13 +129,13 @@ b { font-weight: 700; }
     box-shadow: 0 calc(4 * var(--u)) calc(8 * var(--u)) rgba(0, 0, 0, .25);
 }
 
-.hero__feat { top: calc(760.7 * var(--u)); font-size: calc(14 * var(--u)); line-height: calc(14 * var(--u)); letter-spacing: calc(-.7 * var(--u)); color: #fff; white-space: nowrap; }
-.hero__feat--1 { left: calc(61 * var(--u)); }
-.hero__feat--2 { left: calc(155.4 * var(--u)); }
-.hero__feat--3 { left: calc(267.4 * var(--u)); }
-.hero__ic--card { left: calc(42.3 * var(--u)); top: calc(769 * var(--u)); width: calc(14.4 * var(--u)); height: calc(10.4 * var(--u)); }
-.hero__ic--steps { left: calc(139.5 * var(--u)); top: calc(767 * var(--u)); width: calc(11 * var(--u)); height: calc(14 * var(--u)); }
-.hero__ic--money { left: calc(250 * var(--u)); top: calc(767 * var(--u)); width: calc(14 * var(--u)); height: calc(14 * var(--u)); }
+.hero__feat { top: calc(772 * var(--u)); font-size: calc(14 * var(--u)); line-height: calc(14 * var(--u)); letter-spacing: calc(-.7 * var(--u)); color: #fff; white-space: nowrap; }
+.hero__feat--1 { left: calc(42.3 * var(--u)); }
+.hero__feat--2 { left: calc(153 * var(--u)); }
+.hero__feat--3 { left: calc(280 * var(--u)); }
+.hero__ic--card { left: calc(42.3 * var(--u)); top: calc(756.6 * var(--u)); width: calc(14.4 * var(--u)); height: calc(10.4 * var(--u)); }
+.hero__ic--steps { left: calc(153 * var(--u)); top: calc(753 * var(--u)); width: calc(11 * var(--u)); height: calc(14 * var(--u)); }
+.hero__ic--money { left: calc(280 * var(--u)); top: calc(753 * var(--u)); width: calc(14 * var(--u)); height: calc(14 * var(--u)); }
 
 .hero__pill {
     left: calc(28 * var(--u));
